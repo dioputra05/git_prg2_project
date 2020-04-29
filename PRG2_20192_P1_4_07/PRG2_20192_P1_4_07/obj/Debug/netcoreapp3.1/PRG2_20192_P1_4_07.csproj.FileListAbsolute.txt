@@ -1,0 +1,11 @@
+C:\Users\ASUS VIVOBOOK\source\repos\PRG2_20192_P1_4_07\PRG2_20192_P1_4_07\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_07.exe
+C:\Users\ASUS VIVOBOOK\source\repos\PRG2_20192_P1_4_07\PRG2_20192_P1_4_07\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_07.deps.json
+C:\Users\ASUS VIVOBOOK\source\repos\PRG2_20192_P1_4_07\PRG2_20192_P1_4_07\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_07.runtimeconfig.json
+C:\Users\ASUS VIVOBOOK\source\repos\PRG2_20192_P1_4_07\PRG2_20192_P1_4_07\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_07.runtimeconfig.dev.json
+C:\Users\ASUS VIVOBOOK\source\repos\PRG2_20192_P1_4_07\PRG2_20192_P1_4_07\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_07.dll
+C:\Users\ASUS VIVOBOOK\source\repos\PRG2_20192_P1_4_07\PRG2_20192_P1_4_07\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_07.pdb
+C:\Users\ASUS VIVOBOOK\source\repos\PRG2_20192_P1_4_07\PRG2_20192_P1_4_07\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_07.AssemblyInfoInputs.cache
+C:\Users\ASUS VIVOBOOK\source\repos\PRG2_20192_P1_4_07\PRG2_20192_P1_4_07\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_07.AssemblyInfo.cs
+C:\Users\ASUS VIVOBOOK\source\repos\PRG2_20192_P1_4_07\PRG2_20192_P1_4_07\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_07.dll
+C:\Users\ASUS VIVOBOOK\source\repos\PRG2_20192_P1_4_07\PRG2_20192_P1_4_07\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_07.pdb
+C:\Users\ASUS VIVOBOOK\source\repos\PRG2_20192_P1_4_07\PRG2_20192_P1_4_07\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_07.csprojAssemblyReference.cache
